@@ -2,8 +2,6 @@
 
 Welcome to my personal website! I'm Charles Fabicki, an aspiring Python Developer. This website showcases my skills, projects, and provides a way to connect with fellow developers.
 
-![Charles Fabicki](https://scontent-frt3-1.xx.fbcdn.net/v/t1.6435-9/66445392_2400500800007643_8681642026489348096_n.jpg?stp=dst-jpg_s526x395&_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NmBiDAyrXJcAX-MwETi&_nc_ht=scontent-frt3-1.xx&oh=00_AT9pa0KcM3pjhtth05rR77gnUUd-nEQAcfLyC8zMAYN2tg&oe=62C48813)
-
 ## Contact Me
 
 - Twitter: [https://twitter.com/KFabicki](https://twitter.com/KFabicki)
