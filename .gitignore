@@ -1,0 +1,52 @@
+# Ignore compiled and generated files
+*.pyc
+__pycache__/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore compiled CSS and JS
+assets/css/*.css
+assets/js/*.js
+
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore compiled HTML
+*.html
+
+# Ignore compiled executables
+*.exe
+*.dll
+
+# Ignore temporary files
+*.tmp
+
+# Ignore backup files
+*~
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled binary files
+*.bin
+
+# Ignore compiled archives
+*.zip
+*.tar
+*.gz
+
+# Ignore any generated or compiled files
+# You can customize this list based on your project's needs
