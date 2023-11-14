@@ -23,7 +23,6 @@ This website is built using the "Identity" template from HTML5 UP. It's a simple
 ## Credits
 
 - Design: [HTML5 UP](http://html5up.net)
-- Profile picture: [Unsplash](https://unsplash.com) (Replace with your own image)
 
 ## License
 
